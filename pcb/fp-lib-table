@@ -3,4 +3,5 @@
   (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/libraries/Kicad-STM32/Footprints")(options "")(descr ""))
   (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/libraries/keyswitches.pretty")(options "")(descr ""))
   (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/libraries/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "rp2040")(type "KiCad")(uri "${KIPRJMOD}/libraries/WeAct-RP2040-Pico.pretty")(options "")(descr ""))
 )
