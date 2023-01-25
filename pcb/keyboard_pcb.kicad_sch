@@ -1959,7 +1959,7 @@
     (uuid 43fed586-9749-4fb0-91ff-a0b521d57cd5)
     (property "Reference" "J2" (id 0) (at 47.625 136.813 0))
     (property "Value" "Conn_01x04_Female" (id 1) (at 47.625 139.3499 0))
-    (property "Footprint" "" (id 2) (at 46.99 146.05 0)
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" (id 2) (at 46.99 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 46.99 146.05 0)
@@ -2968,7 +2968,7 @@
       (reference "J1") (unit 1) (value "TRRS") (footprint "Keebio-Parts:TRRS-PJ-320A")
     )
     (path "/43fed586-9749-4fb0-91ff-a0b521d57cd5"
-      (reference "J2") (unit 1) (value "Conn_01x04_Female") (footprint "")
+      (reference "J2") (unit 1) (value "Conn_01x04_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
     )
     (path "/2cd2ee6e-af2a-43ce-aa7e-58b5c17fc3c8"
       (reference "K0") (unit 1) (value "KEYSW") (footprint "keyswitches:SW_PG1350_reversible")
